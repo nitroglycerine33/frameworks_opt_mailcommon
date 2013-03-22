@@ -64,7 +64,7 @@
         <item name="android:layout_marginLeft">0dip</item>
      </style>
 
-    <style name="ComposeFieldLayout" parent="android:Widget.Holo.Light.EditText">
+    <style name="ComposeFieldLayout" parent="android:Widget.Holo.EditText">
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:addStatesFromChildren">true</item>

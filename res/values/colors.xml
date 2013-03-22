@@ -19,15 +19,15 @@
 -->
 <resources>
     <!-- Conversation List Item Colors -->
-    <color name="default_text_color">#ff000000</color>
-    <color name="subject_text_color_unread">#555555</color>
-    <color name="snippet_text_color_unread">#555555</color>
-    <color name="senders_text_color_unread">#333333</color>
-    <color name="subject_text_color_read">#777777</color>
-    <color name="snippet_text_color_read">#777777</color>
-    <color name="senders_text_color_read">#555555</color>
+    <color name="default_text_color">#ffffffff</color>
+    <color name="subject_text_color_unread">#ffffff</color>
+    <color name="snippet_text_color_unread">#ffffff</color>
+    <color name="senders_text_color_unread">#ffffff</color>
+    <color name="subject_text_color_read">#ffffff</color>
+    <color name="snippet_text_color_read">#ffffff</color>
+    <color name="senders_text_color_read">#ffffff</color>
     <color name="date_text_color_unread">@color/senders_text_color_unread</color>
     <color name="date_text_color_read">@color/senders_text_color_read</color>
-    <color name="label_list_heading_text_color">#777777</color>
-    <color name="actionbar_secondary">#777777</color>
+    <color name="label_list_heading_text_color">#33b5e5</color>
+    <color name="actionbar_secondary">#efefef</color>
 </resources>
